@@ -192,7 +192,7 @@ export const slidesData: SlideData[] = [
     duration: "25s",
     animations: {
       entrance: 'slide-up',
-      elements: ['/patrick.jpg']
+      elements: ['../../patrick.jpg']
     }
   }
 ];
