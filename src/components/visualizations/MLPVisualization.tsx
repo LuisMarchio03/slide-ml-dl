@@ -1,12 +1,5 @@
-import React, { useState } from 'react';
-import { motion } from 'framer-motion';
+import React from 'react';
 
-interface Person {
-  age: number;
-  sleep: number;
-  nutrition: number;
-  name: string;
-}
 
 export const MLPVisualization: React.FC = () => {
 
